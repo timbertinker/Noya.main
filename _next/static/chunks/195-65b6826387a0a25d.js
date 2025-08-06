@@ -207,7 +207,7 @@
                                   title: "ZKML",
                                   onclick: () =>
                                     window.open(
-                                      "https://app.noya.ai/zkml",
+                                      "https://noya-detail.vercel.app/",
                                       "_blank"
                                     ),
                                 },
@@ -353,7 +353,7 @@
                   {
                     title: "ZKML",
                     onclick: () => {
-                      window.open("https://app.noya.ai/zkml", "_blank");
+                      window.open("https://noya-detail.vercel.app/", "_blank");
                     },
                   },
                   {
