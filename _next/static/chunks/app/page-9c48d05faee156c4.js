@@ -516,7 +516,7 @@
                       (0, o.jsx)("div", {
                         className: b().Banner_Content_Action_button_wrapper,
                         children: (0, o.jsx)("a", {
-                          href: "https://app.noya.ai/space-race-onboarding",
+                          href: "https://noya-detail.vercel.app/space-race-onboarding",
                           target: "_blank",
                           className: ""
                             .concat(
@@ -752,7 +752,7 @@
                       ],
                     }),
                     (0, o.jsx)(L.default, {
-                      href: "https://app.noya.ai/space-race-onboarding",
+                      href: "https://noya-detail.vercel.app/space-race-onboarding",
                       target: "_blank",
                       children: (0, o.jsx)("button", {
                         className:

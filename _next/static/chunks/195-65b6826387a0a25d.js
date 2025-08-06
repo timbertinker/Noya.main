@@ -161,7 +161,7 @@
                         title: "Space Race",
                         onclick: () => {
                           window.open(
-                            "https://app.noya.ai/space-race-onboarding",
+                            "https://noya-detail.vercel.app/space-race-onboarding",
                             "_blank"
                           );
                         },
@@ -345,7 +345,7 @@
                     title: "Space Race",
                     onclick: () => {
                       window.open(
-                        "https://app.noya.ai/space-race-onboarding",
+                        "https://noya-detail.vercel.app/space-race-onboarding",
                         "_blank"
                       );
                     },
