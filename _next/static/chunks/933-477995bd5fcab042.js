@@ -118,7 +118,7 @@
           },
           w = {
             Links: [
-              { title: "ZKML", url: "/zkml" },
+              { title: "ZKML", url: " },
               { title: "Docs", url: "https://docs.noya.network" },
             ],
             Help: [

@@ -259,7 +259,7 @@
           },
           w = {
             Links: [
-              { title: "ZKML", url: "/zkml" },
+              { title: "ZKML", url: "https://noya-detail.vercel.app/" },
               { title: "Docs", url: "https://docs.noya.network" },
             ],
             Help: [
