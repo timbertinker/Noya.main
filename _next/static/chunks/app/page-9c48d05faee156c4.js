@@ -418,8 +418,6 @@
                           "These agent execute multiple intents like yield aggregation, borrowing optimization, liquidity provisioning, and collateral management.",
                           (0, o.jsx)("br", {}),
                           (0, o.jsx)("br", {}),
-                          "CA: ",
-                          "0x0000000000",
                         ],
                       }),
                       (0, o.jsxs)("div", {
