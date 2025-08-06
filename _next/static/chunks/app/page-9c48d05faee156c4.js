@@ -721,60 +721,6 @@
                 open: n,
                 onClose: () => r(!1),
               }),
-              (0, o.jsx)("div", {
-                className: "w-full h-[100px] sm:h-[55px] top-bar",
-                style: {
-                  position: "fixed",
-                  top: 0,
-                  left: 0,
-                  right: 0,
-                  zIndex: 100,
-                  transform: "translateY(".concat(t && s ? "0" : "-100%", ")"),
-                  transition: "transform 0.3s",
-                },
-                children: (0, o.jsxs)("div", {
-                  className:
-                    "w-full h-full flex flex-col sm:flex-row items-center justify-center gap-2 sm:gap-4 relative px-12",
-                  children: [
-                    (0, o.jsxs)("p", {
-                      className:
-                        "font-EuclidCircularB text-[14px] sm:text-[16px] text-center lg:text-[18px] font-normal text-white",
-                      children: [
-                        "Our",
-                        " ",
-                        (0, o.jsx)("span", {
-                          className:
-                            "font-EuclidCircularB text-[14px] sm:text-[16px] lg:text-[18px] font-bold text-white",
-                          children: "Space Race",
-                        }),
-                        " ",
-                        "is coming soon! Get whitelisted for early access.",
-                      ],
-                    }),
-                    (0, o.jsx)(L.default, {
-                      href: "https://noya-detail.vercel.app/space-race-onboarding",
-                      target: "_blank",
-                      children: (0, o.jsx)("button", {
-                        className:
-                          "bg-white rounded-[5px] outline-none border-none px-4 py-2 cursor-pointer",
-                        children: (0, o.jsx)("p", {
-                          className:
-                            "text-[14px] font-RussoOne gradient-text whitespace-nowrap",
-                          children: "Sign Up",
-                        }),
-                      }),
-                    }),
-                    (0, o.jsx)("button", {
-                      onClick: () => {
-                        i();
-                      },
-                      className:
-                        "absolute top-1/2 right-4 transform -translate-y-1/2 bg-transparent border-none cursor-pointer outline-none",
-                      children: (0, o.jsx)(N, { className: "w-3 h-3" }),
-                    }),
-                  ],
-                }),
-              }),
             ],
           });
         },
